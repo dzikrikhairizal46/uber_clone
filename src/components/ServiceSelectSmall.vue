@@ -5,7 +5,7 @@
         <img :width="55" :src="'img/uber/' + image + '.png'" alt="">
       </div>
     </div>
-    <div class="text-xs text-center mt-2 text-gray-900 mt-14">
+    <div class="text-xs text-center ml-2 text-gray-900 mt-14">
       {{ text }}
     </div>
   </div>
